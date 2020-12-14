@@ -22,4 +22,8 @@
 ### Everything above was used to help me figure out correlation and standard error to see how accurate the model was
 
 ## Results: 
-## 
+![alt text](League Usage v.s Total fantasy points.PNG)
+##
+![alt text](League Usage v.s Total fantasy points.PNG)
+##
+![alt text](League Usage v.s Total fantasy points.PNG)
