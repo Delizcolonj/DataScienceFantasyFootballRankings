@@ -12,14 +12,16 @@
 ### The dataset was a little hard to work with football is a little weird because it is filled with small sample sizes and its really hard to predict based on a coaches game plan for each game so we are just making some educated guesses on player performance. I also had to deal with missing stats NAN values. What hurt the most not able to see stats like fumbles making an impact production.
 
 ### Methods: 
-#### import numpy as np 
-#### import pandas as pd
+
 #### from sklearn.model_selection import train_test_split 
 #### from sklearn.linear_model import LinearRegression
 #### from sklearn.metrics import r2_score
 #### from sklearn.metrics import accuracy_score
-![alt_text] 
+
 ### Everything above was used to help me figure out correlation and standard error to see how accurate the model was
+![alt_text] (https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/ModelExample.PNG)
+# This is how I modeled each dataset using LinearRegression
+
 
 ## Results: 
 ![alt text](https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/League%20Usage%20v.s%20Total%20fantasy%20points.PNG)
