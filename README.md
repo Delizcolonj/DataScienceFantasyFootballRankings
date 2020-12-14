@@ -26,4 +26,4 @@
 ##
 ![alt text](https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/QB%20Usage%20v.s%20FantasyPoints.PNG)
 ##
-![alt text](League Usage v.s Total fantasy points.PNG)
+![alt text](https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/WR%20usage%20v.s%20fantasy%20points.PNG)
