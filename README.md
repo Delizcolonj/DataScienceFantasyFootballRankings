@@ -24,6 +24,6 @@
 ## Results: 
 ![alt text](https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/League%20Usage%20v.s%20Total%20fantasy%20points.PNG)
 ##
-![alt text](League Usage v.s Total fantasy points.PNG)
+![alt text](https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/QB%20Usage%20v.s%20FantasyPoints.PNG)
 ##
 ![alt text](League Usage v.s Total fantasy points.PNG)
