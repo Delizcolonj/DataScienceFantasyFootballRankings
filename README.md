@@ -19,7 +19,7 @@
 #### from sklearn.metrics import accuracy_score
 
 ### Everything above was used to help me figure out correlation and standard error to see how accurate the model was
-![alt_text] (https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/ModelExample.PNG)
+![alt text] (https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/ModelExample.PNG)
 # This is how I modeled each dataset using LinearRegression
 
 
