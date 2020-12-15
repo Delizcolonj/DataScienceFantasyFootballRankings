@@ -1,10 +1,10 @@
 # DataScienceFantasyFootballRankings
 
 ## Intro:
-## This project was undertaken because we sometimes look at fantasy rankings all the time and we just take people for their word. 
-## It's common that in Fantasy Football the more targets and carries (usage) the more points. 
-## I wanted to see how accurate it really is and if it's better to model with each position or with ALL position in football. For this project just WR and QB compared to the whole league
-## Testing the hypothesis that the best way to rank the league is best on usage by position and not by the whole league in general. Helping me do better in my own league draft next year.
+ This project was undertaken because we sometimes look at fantasy rankings all the time and we just take people for their word. 
+ It's common that in Fantasy Football the more targets and carries (usage) the more points. 
+ I wanted to see how accurate it really is and if it's better to model with each position or with ALL position in football. For this project just WR and QB compared to the whole league
+ Testing the hypothesis that the best way to rank the league is best on usage by position and not by the whole league in general. Helping me do better in my own league draft next year.
 
 ## Selection of Data:
 ### The source of the dataset https://www.kaggle.com/mur418/espn-2019-stats-and-2020-nfl-fantasy-projections?select=wr_stats_and_projections.csv. 
