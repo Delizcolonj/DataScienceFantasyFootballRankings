@@ -26,9 +26,9 @@ The dataset was a little hard to work with football is a little weird because it
 ![alt text](https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/League%20Usage%20v.s%20Total%20fantasy%20points.PNG)
 ## coeffecient of determination: 0.7906181930234907, want to be as close to 1 as possible,  Error in points: 29.486804515059248 almost 30 points innaccuracy 
 ![alt text](https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/QB%20Usage%20v.s%20FantasyPoints.PNG)
-## coeffecient of determination: 0.9847091096554346 super close to 1,  Error in points: 5.7732321650908025 only a 5 point error difference
+## coeffecient of determination:  0.986955247513537 super close to 1, Standard error of points per QB and usage 16.07464543035994 pretty normal for a QB
 ![alt text](https://github.com/Delizcolonj/DataScienceFantasyFootballRankings/blob/main/WR%20usage%20v.s%20fantasy%20points.PNG)
-## coeffecient of determination (r^2): 0.986955247513537 super close to 1, Standard error of points per QB and usage 16.07464543035994 pretty normal for a QB
+## coeffecient of determination (r^2): 0.9847091096554346 super close to 1,  Error in points: 5.7732321650908025 only a 5 point error difference
 # Answer to Results: Since the coefficient of determination is .79 for league usage v.s fantasy points super low,  and the standard error is super high compared to the other two models, it would be best to just model the positions separately. And since the correlations based on postion QB and WR is super high it is safe to say that there seems to be a correlation between usage and fantasy points. Thus, backing up the original hypothesis
 
 # Why it matters:
